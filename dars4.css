@@ -1,0 +1,281 @@
+
+
+.ul{
+    background-color: rgba(0,0,0,.1);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    list-style: none;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+.li{
+    margin: 15px;
+}
+.a {
+    text-decoration: none;
+    color: red;
+    font-size: 18px;
+}
+.a:hover{
+    color: #787878;
+    text-decoration: none;
+}
+.lii{
+    padding: 10px 20px;
+    background-color: green;
+    border-radius: 20px;
+}
+.lli{
+    margin-left: 350px;
+    padding-right: 50px;
+}
+.llli{
+    padding: 10px 15px;
+    background-color: white;
+    border-radius: 10px;
+}
+.aa{
+    color: rgb(0, 171, 73);
+    text-decoration: none;
+}
+.aaa{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+.nnav{
+    background-color: rgb(190, 45, 43);
+    width: 1174px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    height: 10vh;
+}
+.uul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+li{
+    margin: 20px;
+}
+
+.llii{
+    margin: 30px;
+    background-color:transparent;
+    border-radius: 10px;
+    padding: 10px 15px;
+}
+.llii:hover{
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px 15px;
+}
+
+.parent{
+    height: 70vh;
+    width: 1174px;
+    margin: auto;
+}
+#eeef{
+    height: 170vh;
+    align-items: center;
+    justify-content: center;
+    width: 1174px;
+    margin: auto;
+}
+h1{
+    text-align: center;
+}
+.h6{
+    text-align: center;
+    padding: 5px 30px;
+    background-color: rgb(48, 218, 102);
+    border-radius: 15px;
+    color: rgb(218, 255, 229);;
+}
+.rasm{
+    border-radius: 10px;
+}
+.eee{
+   margin-left: 390px;
+   margin-top: 40px;
+    width: 384px;
+    height: 500px;
+    border-radius: 10px;
+    background-color: white;
+}
+.l5{
+    padding-top: 20px;
+}
+.text{
+    padding-top: 10px;
+}
+.arent{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 1189px;
+    margin: auto;
+    height: 100vh;
+}
+.child{
+    width: 500px;
+    height: 620px;
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+img{
+    border-radius: 10px;
+}
+.kot{
+
+    padding-bottom: 40px;
+    margin-top: 130px;
+
+}
+.bla{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.blaa{
+    margin: 2px;
+    background-color: wheat;
+    width: 100px;
+    text-align: center;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+}
+.oi{
+    padding-top: 15px;
+}
+.h55{
+    text-align: center;
+    padding: 5px 5px;
+    border-radius: 20px;
+    background-color: rgb(218, 255, 229)
+}
+.hk6{
+    font-size: 25px;
+}
+.h666{
+    text-align: center;
+    padding: 7px 20px;
+    background-color: rgb(0, 171, 73);
+    border-radius: 20px;
+    color: white;
+}
+.ii{
+    color: transparent;
+}
+.h6666{
+    text-align: center;
+    margin-top: 245px;
+    padding: 7px 20px;
+    background-color: pink;
+    border-radius: 20px;
+    color: green;
+}
+.childdd{
+  border: 1px solid black;
+  border-radius: 10px;
+}
+.ppparent{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 50vh;
+    width: 1174px;
+
+}
+.hkl5{
+    text-align: center;
+    padding: 7px 20px;
+    background-color: aqua;
+    border-radius: 20px;
+    color: green;
+}
+.img1{
+    border-radius: 10px;
+}
+.gazaklar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 1174px;
+    height: 70vh;
+    margin: auto;
+}
+.gaz{
+    margin: 10px;
+    width: 400px;
+    height: 65vh;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.yan{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    height: 64vh;
+    width: 1024px;
+    margin: auto
+}
+.mad{
+    margin: 10px;
+    width: 320px;
+    border-radius: 10px;
+    border: 1px solid black;
+    height: 320px;
+    align-items: center;
+    justify-content: center;
+}
+.cola{
+    font-size: 20px;
+}
+.coca{
+    width: 310px;
+}
+.xin{
+    align-items: center;
+    justify-content: center;
+}
+.cocaa{
+    width: 310px;
+    height: 210px;
+    background: white;
+}
+.pb{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+    width: 1174px;
+    margin: auto;
+}
+.bp{
+    align-items: center;
+    justify-content: center;
+    height: 48vh;
+    width: 320px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 150px;
+}
+.mmad{
+    margin-left: 350px;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 320px;
+    height: 320px;
+}
+
